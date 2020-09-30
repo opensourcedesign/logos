@@ -28,3 +28,5 @@ If the above sounds like a good goal to you, please contribute your projects log
 4. Submit a pull request
 
 *Note: if you're unsure about license or ownership of a logo, please  mention this in your pull request*
+
+# Thank You
